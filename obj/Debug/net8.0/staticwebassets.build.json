@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wTVYaImwzv0mRLnbMFyWMw4QwyEN1ieDQ7B+WSPk6hM=",
+  "Source": "TheJourneyAPI",
+  "BasePath": "_content/TheJourneyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
