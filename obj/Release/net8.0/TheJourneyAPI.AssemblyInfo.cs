@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheJourneyAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe4de9b34aaca65beeb305b78073c12b7ba2d46d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10760c9e0eacbfa4080f549316843637fbf3a8e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheJourneyAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheJourneyAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
